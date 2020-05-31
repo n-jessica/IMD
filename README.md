@@ -13,7 +13,7 @@ O curso de Programador Web, ofertado na modalidade de Educação a Distância (E
 - Desenvolvimento Web I (30h);
 - Desenvolvimento Web II (30h).
 
-**Objetivo:**
+### **Objetivo:**
 
 Capacitar o aluno nos fundamentos para o desenvolvimento de aplicações voltadas para o ambiente de Internet.
 
