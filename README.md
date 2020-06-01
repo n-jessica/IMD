@@ -17,7 +17,14 @@ O curso de Programador Web, ofertado na modalidade de Educação a Distância (E
 
 Capacitar o aluno nos fundamentos para o desenvolvimento de aplicações voltadas para o ambiente de Internet.
 
+## Programação estruturada
+**Aula 04 - Comandos de seleção**
 
+Entre os comandos de seleção, temos os comandos if/else (se/senão) e switch (escolha).
+
+**Aula 05 - Comandos de iteração**
+
+Entre os comandos de iteração, temos os comandos: for, while e do-while.
 
 
 
