@@ -31,7 +31,7 @@ Entre os comandos de iteração, temos os comandos: for, while e do-while.
 
 ## ---------------------------------------------------------------------------------------------
 
-*Esse repositório inicia-se pela aula 4 de Programação Estruturada pois foi a partir dela que nos foi proposto o desenvolvimento de pequenos programas com o conceito de programação estruturada e também iniciou-se os estudos da linguagem abordada que irá perdurar pelo resto do curso - no caso, JAVA.*
+>*Esse repositório inicia-se pela aula 4 de Programação Estruturada pois foi a partir dela que nos foi proposto o desenvolvimento de pequenos programas com o conceito de programação estruturada e também iniciou-se os estudos da linguagem abordada que irá perdurar pelo resto do curso - no caso, JAVA.*
 
 
 
