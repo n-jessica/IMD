@@ -26,6 +26,10 @@ Entre os comandos de seleção, temos os comandos if/else (se/senão) e switch (
 
 Entre os comandos de iteração, temos os comandos: for, while e do-while.
 
+**Aula 06 - Vetores e Matrizes**
+
+ Aborda as estruturas de dados homogêneas do tipo vetor ou matriz.
+
 
 
 
