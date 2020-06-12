@@ -29,6 +29,10 @@ Entre os comandos de iteração, temos os comandos: for, while e do-while.
 **Aula 06 - Vetores e Matrizes**
 
  Aborda as estruturas de dados homogêneas do tipo vetor ou matriz.
+ 
+**Aula 07 - Manipulação de Strings**
+
+Aborda funcionamento e a manipulação de Strings
 
 
 
