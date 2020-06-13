@@ -38,6 +38,10 @@ Aborda funcionamento e a manipulação de Strings
 
 Objetivo desse módulo é mostrar o uso e funcionamento de funções e procedimentos. O uso das funções e procedimentos no código é também chamada de modularização, significando a criação de pequenos módulos (funções ou procedimentos) que podem ser combinados para resolver problemas mais complexos.
 
+**Aula 09 - Recursão**
+
+Aborda uso de funções e procedimentos de forma recursiva.
+
 
 
 
