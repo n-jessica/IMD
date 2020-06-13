@@ -34,6 +34,10 @@ Entre os comandos de iteração, temos os comandos: for, while e do-while.
 
 Aborda funcionamento e a manipulação de Strings
 
+**Aula 08 - Funções e procedimentos**
+
+Objetivo desse módulo é mostrar o uso e funcionamento de funções e procedimentos. O uso das funções e procedimentos no código é também chamada de modularização, significando a criação de pequenos módulos (funções ou procedimentos) que podem ser combinados para resolver problemas mais complexos.
+
 
 
 
