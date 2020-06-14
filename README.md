@@ -48,6 +48,10 @@ Nessa aula um jogo de labirinto foi desenhado na tela de modo que o próprio com
 
 >Esse jogo foi desenvolvido junto com os professores e tutores do IMD e tem como objetivo fazer com que os alunos comecem a se       habituar com algoritmos com um pouco mais complexidade.
 
+**Aula 12 - Registros e enumerações**
+
+Conhecer conceitos relacionados aos registros e enumerações
+
 
 
 
