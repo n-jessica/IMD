@@ -42,6 +42,12 @@ Objetivo desse módulo é mostrar o uso e funcionamento de funções e procedime
 
 Aborda uso de funções e procedimentos de forma recursiva.
 
+**Aulas 10 e 11 - Jogo do labirinto**
+
+Nessa aula um jogo de labirinto foi desenhado na tela de modo que o próprio computador terá que achar o caminho de saída.
+
+>Esse jogo foi desenvolvido junto com os professores e tutores do IMD e tem como objetivo fazer com que os alunos comecem a se       habituar com algoritmos com um pouco mais complexidade.
+
 
 
 
