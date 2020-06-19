@@ -63,7 +63,20 @@ Conhecer conceitos relacionados aos registros e enumerações
 
 
 
-## ---------------------------------------------------------------------------------------------
+## ------------------------------------------------------------------------------------------
+
+
+## Programação Orientada a Objetos(POO)
+
+> A Programação Orientada a Objetos (POO) é um paradigma de programação de computadores que usa os conceitos de Objetos e Classes como elementos centrais para representar e processar dados usados nos programas.
+
+**Aula 01 - Introdução à Programação Orientada a Objetos**
+
+Faz uma introdução de forma teorica sobre Programação Orientada a Objetos.
+
+**Aula 02 - Classes, atributos e métodos**
+
+Essa aula aborda um dos principais conceitos da Programação Orientada a Objetos – a Classe. Além de criar características e comportamentos para uma classe através dos atributos e métodos.
 
 
 
