@@ -70,6 +70,9 @@ Conhecer conceitos relacionados aos registros e enumerações
 
 > A Programação Orientada a Objetos (POO) é um paradigma de programação de computadores que usa os conceitos de Objetos e Classes como elementos centrais para representar e processar dados usados nos programas.
 
+
+Para essa disciplina, uma nova pasta foi criada nesse repositório para commits relacionados as aulas de Programação Orientada a Objeto.
+
 **Aula 01 - Introdução à Programação Orientada a Objetos**
 
 Faz uma introdução de forma teorica sobre Programação Orientada a Objetos.
@@ -77,6 +80,18 @@ Faz uma introdução de forma teorica sobre Programação Orientada a Objetos.
 **Aula 02 - Classes, atributos e métodos**
 
 Essa aula aborda um dos principais conceitos da Programação Orientada a Objetos – a Classe. Além de criar características e comportamentos para uma classe através dos atributos e métodos.
+
+**Aula 03 - Objetos, construtores**
+
+Nessa aula, o conceito e a criação dos métodos Construtores são apresentados. Também se inicia a parte prática da Programação Orientada a Objeto (em JAVA).
+
+**Aula 04 - Sistemas OO**
+
+Nessa aula, o objetivo é entender o que é realmente um Sistema OO. Compreender o mecanismo de troca de mensagem entre os objetos.
+
+**Aula 05 - Encapsulamento**
+
+Para essa aula, uma importante característica da Programação Orientada a Objetos, o encapsulamento, que ajuda a desenvolver programas com maior qualidade e flexibilidade para mudanças futuras.
 
 
 
