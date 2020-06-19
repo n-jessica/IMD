@@ -24,7 +24,7 @@ Capacitar o aluno nos fundamentos para o desenvolvimento de aplicações voltada
 
 
 
-> - A disciplina Programação Estruturada dá continuidade aos estudos de Lógica de Programação. O termo programação estruturada é usualmente associado ao paradigma (estilo) de programação imperativo. Relembrando, este paradigma é baseado na entrada, armazenamento, processamento e saída de dados.
+> A disciplina Programação Estruturada dá continuidade aos estudos de Lógica de Programação. O termo programação estruturada é usualmente associado ao paradigma (estilo) de programação imperativo. Relembrando, este paradigma é baseado na entrada, armazenamento, processamento e saída de dados.
 
 **Aula 04 - Comandos de seleção**
 
@@ -68,7 +68,7 @@ Conhecer conceitos relacionados aos registros e enumerações
 
 ## Programação Orientada a Objetos(POO)
 
-> - A Programação Orientada a Objetos (POO) é um paradigma de programação de computadores que usa os conceitos de Objetos e Classes como elementos centrais para representar e processar dados usados nos programas.
+> A Programação Orientada a Objetos (POO) é um paradigma de programação de computadores que usa os conceitos de Objetos e Classes como elementos centrais para representar e processar dados usados nos programas.
 
 **Aula 01 - Introdução à Programação Orientada a Objetos**
 
