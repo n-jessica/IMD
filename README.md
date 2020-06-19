@@ -18,6 +18,14 @@ O curso de Programador Web, ofertado na modalidade de Educação a Distância (E
 Capacitar o aluno nos fundamentos para o desenvolvimento de aplicações voltadas para o ambiente de Internet.
 
 ## Programação estruturada
+
+>*:heavy_check_mark:Esse repositório inicia-se pela aula 4 de Programação Estruturada pois foi a partir dela que nos foi proposto o desenvolvimento de pequenos programas com o conceito de programação estruturada e também iniciou-se os estudos da linguagem abordada que irá perdurar pelo resto do curso - no caso, JAVA.*
+
+
+
+
+>A disciplina Programação Estruturada dá continuidade aos estudos de Lógica de Programação. O termo programação estruturada é usualmente associado ao paradigma (estilo) de programação imperativo. Relembrando, este paradigma é baseado na entrada, armazenamento, processamento e saída de dados.
+
 **Aula 04 - Comandos de seleção**
 
 Entre os comandos de seleção, temos os comandos if/else (se/senão) e switch (escolha).
@@ -57,7 +65,7 @@ Conhecer conceitos relacionados aos registros e enumerações
 
 ## ---------------------------------------------------------------------------------------------
 
->*Esse repositório inicia-se pela aula 4 de Programação Estruturada pois foi a partir dela que nos foi proposto o desenvolvimento de pequenos programas com o conceito de programação estruturada e também iniciou-se os estudos da linguagem abordada que irá perdurar pelo resto do curso - no caso, JAVA.*
+
 
 
 
