@@ -93,6 +93,11 @@ Nessa aula, o objetivo é entender o que é realmente um Sistema OO. Compreender
 
 Para essa aula, uma importante característica da Programação Orientada a Objetos, o encapsulamento, que ajuda a desenvolver programas com maior qualidade e flexibilidade para mudanças futuras.
 
+**Aula 06 - Composição ou Agregação**
+
+Proposta dessa aula é saber o que significa Composição ou Agregação; 
+Entender como se comporta os modificadores de acesso de Java na Composição.
+
 
 
 
