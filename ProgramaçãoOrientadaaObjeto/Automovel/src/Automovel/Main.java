@@ -4,6 +4,7 @@ package Automovel;
 /**
  *
  * @author jessica
+ * A Composição e o Método Construtor
  */
 public class Main {
     public static void main(String[] args) {
@@ -15,6 +16,6 @@ public class Main {
         Motor motor = new Motor();        
         automovel.setMotor(motor);
         
-        System.out.println("Tipo: "+automovel.getMotor());
+        
     }
 }
