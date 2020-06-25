@@ -7,7 +7,7 @@ package encapsulameto;
 public class Encapsulameto {
 
     /**
-     * @param args the command line arguments Algorítmo mais complento
+     * @param args the command line arguments Algorítmo mais completo
      * demonstrando o uso do encapsulamento Criado por acompanhamento de video
      * aula.
      */
