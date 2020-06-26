@@ -63,7 +63,7 @@ Conhecer conceitos relacionados aos registros e enumerações
 
 
 
-## ---------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------
 
 
 ## Programação Orientada a Objetos(POO)
@@ -97,6 +97,16 @@ Para essa aula, uma importante característica da Programação Orientada a Obje
 
 Proposta dessa aula é saber o que significa Composição ou Agregação; 
 Entender como se comporta os modificadores de acesso de Java na Composição.
+
+**Aula 07 - Herança**
+
+Objetivo é entender o que é herança. Conhecer quais os tipos de herança existentes em POO. Entender o funcionamento da herança durante a execução do programa. Programar em Java usando a herança.
+
+**Aula 08 - Herança II**
+
+Objetivo é relacionar a herança e o modificador de acesso protected. Entender o uso da palavra-chave super no contexto de herança entre classes. Saber como funciona a herança para os métodos, durante a execução do programa.
+
+
 
 
 
