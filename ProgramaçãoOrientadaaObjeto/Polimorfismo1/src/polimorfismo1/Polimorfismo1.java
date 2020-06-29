@@ -10,7 +10,7 @@ public class Polimorfismo1 {
     /**
      * @param args the command line arguments
      * 
-     * Esse programa apresenta o conceito de POLIMORFISMO. Aborda o conceito de Polimorfismo de sobrecarga - mesma assinatura, mas em classes diferentes
+     * Esse programa apresenta o conceito de POLIMORFISMO. Aborda o conceito de Polimorfismo de sobreposição - mesma assinatura, mas em classes diferentes
      * Obs.: Com relação as carcteriticas dos animais - não entendo de biologia, o que interessa é a parte da programação kkkkkk...
      */
     public static void main(String[] args) {
