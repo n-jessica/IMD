@@ -6,7 +6,7 @@ package heranca2;
  * @author jessica
  */
 //A classe Pessoa é uma classe abstrata e por isso não pode ser instanciada.
-public class Pessoa {
+public abstract class Pessoa {
     //Atributos
     private String nome;
     private int idade;
