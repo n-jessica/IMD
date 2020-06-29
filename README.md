@@ -106,6 +106,11 @@ Objetivo é entender o que é herança. Conhecer quais os tipos de herança exis
 
 Objetivo é relacionar a herança e o modificador de acesso protected. Entender o uso da palavra-chave super no contexto de herança entre classes. Saber como funciona a herança para os métodos, durante a execução do programa.
 
+**Aula 09 - Polimorfismo**
+
+Objetivo é entender o princípio do polimorfismo, saber os tipos existentes de polimorfismo, conhecer polimorfismo de sobrecargae e de sobreposição.
+
+
 
 
 
