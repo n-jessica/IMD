@@ -117,6 +117,8 @@ Objetivo é entender o princípio do polimorfismo, saber os tipos existentes de 
 
 ## Banco de Dados
 
+>Para a disciplina de Banco de Dados não foi executado nenhum commit, contudo, como esse repositório consiste em acompanhar o curso de Programação Web oferecido pelo Instituto Metrópole Digital - IMD, segue abaixo os tópicos abordados na semana focada em Banco de Dados. As aulas foram ministradas em MySQL e o objetivo era de apresentar aos alunos os conceitos iniciais para a criação de bancos de dados, de tabelas, de inserção de dados nas tabelas, etc. 
+
 
 **Aula 01 - Introdução a Banco de Dados**
 
@@ -145,4 +147,7 @@ Ainda com foco na prática, o objetivo dessa aula é aprender como Consultar dad
 **Aula 06 - Linguagem SQL - Alteração de Estrutura de Tabelas e Ambientes de Múltiplas Tabelas**
 
 Para finalizar o módulo de Banco de Dados, essa aula aborda tópicos como modificar a estrutura de uma tabela; Criar tabelas com chaves primárias e estrangeiras; Consultar dados através de conexões de tabelas.
+
+
+>*Espero posteriormente elaborar um texto com um resumo do que foi abordado durante essa semana.*
 
