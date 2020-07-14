@@ -159,6 +159,6 @@ Para finalizar o módulo de Banco de Dados, essa aula aborda tópicos como modif
 
 O objetivo dessa aula é: Instalar os softwares necessários para construir, executar e depurar (debugar) suas aplicações em um ambiente Java para Web.
 
->*Para essa aula, os Professores instruiram a instalação da IDE eclipse, mas não achei necessário instalar uma outra IDE, por isso, continuo usando a IDE Netbeans. Dessa forma, dos softwares que eles orientam instalar (eclipse, pacote JAVA - JDK(já esta instalado), e servidor TomCat), só instalei o Apache TomCat. 
+>*Para essa aula, os Professores instruiram a instalação da IDE eclipse, mas não achei necessário instalar uma outra IDE, por isso, continuo usando a IDE Netbeans. Dessa forma, dos softwares que eles orientam instalar (eclipse, pacote JAVA - JDK(já esta instalado), e servidor TomCat), só instalei o Apache TomCat.*
 
 
