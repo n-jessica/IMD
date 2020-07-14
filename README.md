@@ -112,9 +112,37 @@ Objetivo é entender o princípio do polimorfismo, saber os tipos existentes de 
 
 
 
+## -------------------------------------------------------------------------------------
 
 
+## Banco de Dados
 
 
+**Aula 01 - Introdução a Banco de Dados**
 
+O objetivo dessa aula é: Definir o que é um banco de dados; Identificar os diferentes tipos de banco de dados; Compreender a importância do banco de dados; Descrever como se deu a evolução dos bancos de dados; Diferenciar o modelo lógico e modelo físico; Instalar a ferramenta MySQL Workbench.
+
+
+**Aula 02 - Introdução à Linguagem SQL e Sistemas Gerenciadores de Banco de Dados**
+
+Para essa aula, o propósito é: Entender o que é SQL e para que é usado;
+Entender os conceitos de relações/tabelas e tuplas; Entender os conceitos de chaves primárias e chaves estrangeiras; Conhecer os principais Sistemas Gerenciadores de Banco de Dados; Identificar as principais diferenças dos Sistemas Gerenciadores de Banco de Dados; Instalar e configurar o MySQL.
+
+**Aula 03 - Linguagem SQL - criação, inserção e modificação de tabelas**
+
+Nessa aula, o foco consiste em criar banco de dados e tabelas; Inserir dados em tabelas.
+Atualizar e apagar dados em tabelas.
+
+**Aula 04 - Linguagem SQL - Consulta Simples de Tabelas**
+
+O objetivo da aula 4 é continuar o aprendizado com a prática e para isso o foco é: Executar comandos para visualizar a estrutura de uma tabela; Consultar dados em tabelas;
+Entender e aplicar a cláusula WHERE
+
+**Aula 05 - Linguagem SQL - Consulta Avançada de Tabelas**
+
+Ainda com foco na prática, o objetivo dessa aula é aprender como Consultar dados ordenados em tabelas; Consultar dados agrupados em tabelas; Utilizar funções especiais para manipulação e apresentação das pesquisas.
+
+**Aula 06 - Linguagem SQL - Alteração de Estrutura de Tabelas e Ambientes de Múltiplas Tabelas**
+
+Para finalizar o módulo de Banco de Dados, essa aula aborda tópicos como modificar a estrutura de uma tabela; Criar tabelas com chaves primárias e estrangeiras; Consultar dados através de conexões de tabelas.
 
