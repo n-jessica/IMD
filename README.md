@@ -167,4 +167,8 @@ O objetivo dessa aula é: Instalar os softwares necessários para construir, exe
 
 >*Para essa aula, os Professores instruiram a instalação da IDE eclipse, mas não achei necessário instalar uma outra IDE, por isso, continuo usando a IDE Netbeans. Dessa forma, dos softwares que eles orientam instalar (eclipse, pacote JAVA - JDK(já esta instalado), e servidor TomCat), só instalei o Apache TomCat.*
 
+**Aula 02 - Introdução aos Servlets**
+
+O objetivo dessa aula é: Entender o que são Servlets e seus ciclos de vida; Compreender o funcionamento dos métodos de processamento de requisições web dos Servlets; Saber a configuração da aplicação web necessária para o funcionamento dos Servlets.
+
 
