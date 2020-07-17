@@ -155,6 +155,12 @@ Para finalizar o módulo de Banco de Dados, essa aula aborda tópicos como modif
 
 ## Desenvolvimento Web I
 
+> O Desenvolvimento Web é a criação de sistemas e sites que funcionam direto pelo navegador. No desenvolvimento web, exite o lado do cliente, também conhecido como Front-End e o lado do servidor é o que se chama de Back-End.
+
+> O Front-End é o responsável pelo que o usuário vê na tela de seu dispositivo, e com a qual interage. Ou seja, a frente do site, plataforma ou sistema. 
+
+> Um site tem que ser hospedado em um servidor (seja ele da Google, Amazon entre outros). É no servidor que ficam armazenados as informações, como banco de dados, login e senha de todos os sistemas e processamento de dados e todo esse processo é feito pelo Back-End.
+
 **Aula 01 - Ambiente de desenvolvimento para Web em Java**
 
 O objetivo dessa aula é: Instalar os softwares necessários para construir, executar e depurar (debugar) suas aplicações em um ambiente Java para Web.
