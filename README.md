@@ -171,4 +171,9 @@ O objetivo dessa aula é: Instalar os softwares necessários para construir, exe
 
 O objetivo dessa aula é: Entender o que são Servlets e seus ciclos de vida; Compreender o funcionamento dos métodos de processamento de requisições web dos Servlets; Saber a configuração da aplicação web necessária para o funcionamento dos Servlets.
 
+**Aula 03 - Manipulando requisições e respostas HTML com Servlets**
+
+Nessa aula, os conteúdos abordados foram: Os de processar parâmetros das requisições web;
+Repassar parâmetros de uma requisição para outra.
+
 
