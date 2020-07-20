@@ -176,4 +176,8 @@ O objetivo dessa aula é: Entender o que são Servlets e seus ciclos de vida; Co
 Nessa aula, os conteúdos abordados foram: Os de processar parâmetros das requisições web;
 Repassar parâmetros de uma requisição para outra.
 
+**Aula 04 - Trabalhando com sessões**
+
+O objetivo dessa aula é: Entender o funcionamento das sessões em aplicações web; Utilizar esse recurso na programação web utilizando a linguagem Java.
+
 
