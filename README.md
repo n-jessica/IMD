@@ -180,7 +180,7 @@ Repassar parâmetros de uma requisição para outra.
 
 O objetivo dessa aula é: Entender o funcionamento das sessões em aplicações web; Utilizar esse recurso na programação web utilizando a linguagem Java.
 
-**Aula 05 - Introdução e Recursos JavaServer Pages - Exercícios**
+**Aula 05 - Introdução e Recursos JavaServer Pages**
 
 Essa aula mostra como descrever o funcionamento da solução JSP; Entender a sintaxe utilizada na criação de páginas JSP.
 
