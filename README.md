@@ -2,7 +2,7 @@
 
 ## Curso de Programação Web
 
-O curso de Programador Web, ofertado na modalidade de Educação a Distância (EaD) pelo Instituto Metrópole Digital possui carga horária total de 200h, distribuída em 7 disciplinas abaixo listadas:
+O curso de Programador Web, ofertado na modalidade de Educação a Distância (EaD) pelo Instituto Metrópole Digital (IMD - UFRN) possui carga horária total de 200h, distribuída em 7 disciplinas abaixo listadas:
 
 
 - Lógica de Programação (20h);
